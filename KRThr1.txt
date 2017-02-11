@@ -21,3 +21,4 @@
 % git checkout issue1
 
 うさみん12
+セミかな～って
