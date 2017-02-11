@@ -18,6 +18,10 @@
 
 1
 2
+<<<<<<< HEAD
 % git checkout issue1
 
 うさみん
+=======
+% git checkout issue1
+>>>>>>> cd58b9b... ADD COMMENT - repo1/br_in
